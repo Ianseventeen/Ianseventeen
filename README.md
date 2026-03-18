@@ -71,11 +71,14 @@
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://linkedin.com/in/seu-link  
-- 📧 Email: seuemail@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ian-de-morais-5b30aa225/
+- 📧 Email: ianmoraiscosta@gmail.com  
 
 ---
 
 ## ⚡ Fun Fact
 
-> "Dreams Come True" 🚀
+<p align="center" fonti-size="12px">
+  > "Dreams Come True" 🚀
+</p>
+
