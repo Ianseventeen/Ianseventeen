@@ -4,7 +4,7 @@
 
 <!-- IMAGEM ESTÁTICA PRO LINKEDIN -->
 <p align="center">
-  <img src="https://placehold.co/1000x250/000000/FF00FF?text=Turning+ideas+into+code" width="100%" height="100px" />
+  <img src="https://placehold.co/1000x250/000000/FF00FF?text=Turning+ideas+into+code" width="100%" />
 </p>
 
 ---
