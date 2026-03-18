@@ -1,4 +1,4 @@
-![banner](https://via.placeholder.com/800x200)
+![banner](https://via.placeholder.com/800x200/0d1117/ffffff?text=Ian+Morais+Costa+-+Fullstack+Developer)
 # Hey, I'm Ian 👋
 
 💻 Computer Science Student  
