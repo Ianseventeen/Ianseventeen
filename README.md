@@ -4,7 +4,7 @@
 
 <!-- IMAGEM ESTÁTICA PRO LINKEDIN -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/000000/FF00FF?text=Ian+de+Morais+-+Fullstack+Developer" width="100%" />
+  <img src="https://placehold.co/1000x250/000000/FF00FF?text=Ian+de+Morais+-+Fullstack+Developer" width="100%" />
 </p>
 
 ---
