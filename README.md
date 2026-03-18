@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&background=000000&center=true&vCenter=true&width=800&height=200&lines=Ian+de+Morais;Dreams+Come+True;Fullstack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&background=000000&center=true&vCenter=true&width=auto&height=200&lines=Ian+de+Morais;Dreams+Come+True;Fullstack+Developer" />
 # Hey, I'm Ian 👋
 
 💻 Computer Science Student  
