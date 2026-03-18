@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=1000&height=250&lines=Ian+de+Morais;Dreams+Come+True;Fullstack+Developer" width="100%" />
 </p>
 
-<!-- IMAGEM ESTÁTICA PRO LINKEDIN -->
-<p align="center">
-  <img src="https://placehold.co/1000x250/000000/FF00FF?text=Turning+ideas+into+code" width="100%" />
-</p>
-
 ---
 
 # 👋 Hey, I'm Ian
