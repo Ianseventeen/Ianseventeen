@@ -1,16 +1,33 @@
-## Hi there 👋
+![banner](https://via.placeholder.com/800x200)
+# Hey, I'm Ian 👋
 
-<!--
-**Ianseventeen/Ianseventeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🚀 Aspiring Fullstack & Flutter Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Studying Computer Science
+- Focused on Flutter and Frontend development
+- Learning Clean Architecture, BLoC, APIs
+
+---
+
+## 🚀 Tech Stack
+- Flutter / Dart
+- JavaScript / HTML / CSS
+- C (Algorithms and Data Structures)
+- Python + Claude AI to automatize simple tasks
+
+---
+
+## 📌 Projects
+- 📱 Flutter Apps (in progress)
+- 🧾 Client Registration System (C)
+- 🌐 Frontend projects (HTML, CSS, JS)
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ian-de-morais-5b30aa225/
+- Email: ianmoraiscosta@gmail.com
