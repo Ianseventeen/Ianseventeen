@@ -26,6 +26,7 @@
 - C
 - JavaScript
 - Dart
+- Java
 
 ### 🌐 Frontend
 - HTML
