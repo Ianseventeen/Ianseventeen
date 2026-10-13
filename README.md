@@ -25,26 +25,22 @@
 ### 💻 Languages
 - C
 - JavaScript
-- Dart
+- Python
 - Java
 
 ### 🌐 Frontend
 - HTML
 - CSS
-- Flutter
+- JS
 
 ### ⚙️ Concepts
 - Clean Architecture  
-- BLoC / Cubit  
+- WebSockets
 - REST APIs  
 
 ---
 
 ## 📌 Featured Projects
-
-### 📱 Flutter Apps
-- Task Manager App (em desenvolvimento)
-- Arquitetura com BLoC + Clean Architecture  
 
 ### 🧾 C Projects
 - Sistema de cadastro de clientes  
